@@ -1,4 +1,5 @@
-GitHub User List Shell Script
+GitHub User List Shell Script.
+
 This shell script allows you to retrieve a list of users without needing to log in to a GitHub repository. It leverages GitHub's API to gather the list of contributors or collaborators for a specified repository.
 
 Prerequisites
